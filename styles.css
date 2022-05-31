@@ -1,6 +1,37 @@
-body{
-    background: blue;
-}
-a{
-    color:red;
-}
+body {
+    background-color: black;
+    color: white;
+  }
+  nav{
+    font-size:2em;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+  }
+  
+  h1 {
+    background-color: black;
+    color: white;
+  }
+  
+  div {
+    background-color: blue;
+    color: white;
+  }
+  a{
+      color:red;
+  }
+  p{
+    color:white;
+  }
+  img {
+    border-radius: 50%;
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    filter: grayscale(100%)
+  }
+  
